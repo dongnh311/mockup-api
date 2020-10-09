@@ -30,6 +30,36 @@
     "deception": "ARM thông báo rằng họ sẽ ngừng thiết kế các nhân CPU chỉ hỗ trợ kiến trúc 32-bit từ năm 2022. ARM nói thêm hiện tại 60% các app đã hỗ trợ 64-bit, còn các app không hỗ trợ thì thường không nằm trong hệ sinh thái Apple và Google nên cũng không đáng quan tâm. Việc bỏ hỗ trợ 32-bit giúp giải phóng phần diện tích chip dùng cho 32-bit để dành cho việc khác quan trọng hơn, và nó cũng khiến cho nhà phát triển phần mềm lẫn công ty sản xuất chip tập trung vào việc tối ưu hệ thống cho 64-bit.Trong năm 2021 và 2022, ARM cũng tiếp tục giới thiệu thế hệ nhân CPU Cortex-A tên mã Matterhorn và Makalu. Hiệu năng cao nhất của những con chip Matterhorn (2021) sẽ tăng 2,5 lần so với hiện nay, còn từ Matterhorn lên Makalu thì tăng 20%. Chi tiết các nhân CPU mới sẽ được ARM thông báo sau.",
     "catalogObject": {
       "typeId": 1
-    }
+    },
+    "commentObjects" : [
+      {
+        "nameUser" : "Atruong",
+        "comment": "Mọi thứ trên cả tuyệt vời",
+        "starNumber": 4.5,
+        "dateTime": 1602241705698,
+        "catalogId": 1,
+      },
+      {
+        "nameUser" : "Quang Thắng",
+        "comment": "Làm việc chậm chạp \n Lấy giá cao",
+        "starNumber": 0.0,
+        "dateTime": 1602241763935,
+        "catalogId": 1,
+      },
+      {
+        "nameUser" : "Hữu Văn Lý Thể",
+        "comment": "Sửa xe tận tâm lắm luôn, chủ thì nhiệt tình, ở xa vẫn chạy qua giúp mình.",
+        "starNumber": 5.0,
+        "dateTime": 1602241823075,
+        "catalogId": 1,
+      },
+      {
+        "nameUser" : "Thằng trời đánh nào đó",
+        "comment": "Chưa thấy lý do nào chê chỗ này, mỗi tội lấy giá hơi cao.\n Lần sau có hư nữa thì sẽ ủng hộ.",
+        "starNumber": 5.0,
+        "dateTime": 1602241823075,
+        "catalogId": 1,
+      }
+    ]
   }
 }
