@@ -1,0 +1,40 @@
+{
+ "result": [
+  {
+    "id": 1,
+    "urlImage": "",
+    "dateTime": 12345679,
+    "title" : "",
+    "listContent": [ 
+        {
+          "typeMedia": 1,
+          "value": "" 
+        }
+     ]
+  },
+  {
+    "id": 1,
+    "urlImage": "",
+    "dateTime": 12345679,
+    "title" : "",
+    "listContent": [ 
+        {
+          "typeMedia": 1,
+          "value": "1"
+        }
+     ]
+  },
+  {
+    "id": 1,
+    "urlImage": "",
+    "dateTime": 12345679,
+    "title" : "",
+    "listContent": [ 
+        {
+          "typeMedia": 1,
+          "value": "1"
+        }
+     ]
+  }
+ ]
+}
