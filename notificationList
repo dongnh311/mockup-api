@@ -77,26 +77,54 @@
      ]
   },
   {
-    "id": 1,
-    "urlImage": "",
-    "dateTime": 12345679,
-    "title" : "",
+    "id": 2,
+    "urlImage": "https://photo2.tinhte.vn/data/attachment-files/2020/10/5178241_Cover_Qualcomm.jpg",
+    "dateTime": 1602230350029,
+    "title" : "Qualcomm có thể đang hợp tác với Asus để tung ra smartphone chơi game ngay trong năm 2020",
     "listContent": [ 
         {
           "typeMedia": 1,
-          "value": "1"
+          "value": "Ngày 1/12 tới, Snapdragon Tech Summit sẽ được Qualcomm tổ chức, với sự kiện online đến ngày 2/12. Bên cạnh việc giới thiệu thế hệ SoC flagship của họ, Snapdragon 875, theo nguồn tin của DigiTimes bên Đài Loan, không loại trừ khả năng Qualcomm cũng sẽ nhòm ngó những thị trường smartphone ngách, chứ không chỉ đơn giản là sản xuất SoC cho các hãng phát triển sản phẩm nữa. Họ có thể sẽ bán ra thị trường smartphone chơi game, hợp tác với kinh nghiệm của Asus để ra mắt sản phẩm sớm nhất là ngay dịp cuối năm 2020 này."
+        },
+        {
+          "typeMedia": 1,
+          "value": "Nếu nguồn tin này là chính xác, thì việc hợp tác với Asus sẽ là lựa chọn hợp lý nhất với Qualcomm nếu họ muốn nhảy ngay vào thị trường smartphone phục vụ cho những người yêu game. Asus không chỉ có kinh nghiệm phát triển sản phẩm phần cứng, mà ROG Phone 3 vừa ra mắt cách đây ít lâu cũng là một con quái vật đúng nghĩa đen, phục vụ nhu cầu chơi những game mobile nặng nhất ờ thời điểm hiện tại. Để mô tả khả năng thiết kế của Asus, thì nhân xử lý hiệu năng cao của Snapdragon 865 Plus, vốn chạy ở xung nhịp 3.1 GHz thì Asus ép xung lên 3.4 GHz, ấy vậy mà hệ thống tản nhiệt vẫn giúp SoC nằm ở nhiệt độ 36 độ C. Chắc chắn Qualcomm sẽ được hưởng lợi từ kinh nghiệm của Asus."
+        },
+        {
+          "typeMedia": 1,
+          "value": "Cũng hoàn toàn có khả năng, rằng chiếc smartphone chơi game đầu tiên của Qualcomm sẽ được trang bị một phiên bản Snapdragon 875 riêng. Trước đó từng có tin đồn nói rằng Qualcomm sẽ có hai phiên bản Snapdragon 875 khác nhau dựa trên tên mã sản phẩm phát triển nội bộ."
+        },
+        {
+          "typeMedia": 1,
+          "value": "Theo WCCFTech"
         }
      ]
   },
   {
-    "id": 1,
-    "urlImage": "",
-    "dateTime": 12345679,
-    "title" : "",
+    "id": 3,
+    "urlImage": "https://photo2.tinhte.vn/data/attachment-files/2020/10/5178016_cover.jpg",
+    "dateTime": 1602230454092,
+    "title" : "Trên tay thùng rác biến rác thành phân bón sau 24 giờ",
     "listContent": [ 
         {
           "typeMedia": 1,
-          "value": "1"
+          "value": "Mình được giới thiệu một thiết bị khá độc đáo và mới lạ tại Việt Nam, đó là thùng rác tái chế biến rác thành phân bón hữu cơ. Về cơ bản, bạn sẽ đổ mọi loại rác hữu cơ hàng ngày vào đây và sau 24 giờ thì nó sẽ trở thành phân bón mà chúng ta không phải thải ra môi trường. Tiếc là máy này của một người khác nên mình không được dùng thử và demo quá trình đó cho bạn xem."
+        },
+        {
+          "typeMedia": 1,
+          "value": "Zera Food Recycler của thương hiệu Whirlpool, một thương hiệu đồ gia dụng khá phổ biến ở Mỹ. Thùng rác này có kích thước rất lớn, mình nghĩ nó đủ chứa rác trong nhiều ngày sử dụng. Xung quanh là kim loại trong khi mặt trên là từ nhựa với các nút điều khiển cảm ứng. Ở bên trong là lưỡi dao cũng như các thành phần khác để xử lý rác thải tại nhà, dĩ nhiên nó có màng lọc HEPA để đảm bảo không ô nhiễm."
+        },
+        {
+          "typeMedia": 2,
+          "value": "https://photo2.tinhte.vn/data/attachment-files/2020/10/5178002_tinhte_thung_rac_tai_che-1.jpg"
+        },
+        {
+          "typeMedia": 1,
+          "value": "Bạn có thể đổ mọi thứ là hữu cơ vào đây, bao gồm vỏ/ruột hoa quả, đồ ăn thừa bao gồm cả bơ sữa và thịt để xử lý. Sau đó, lưỡi dao bên trong sẽ nghiền nát toàn bộ số rác này, kết hợp với bột phụ gia đi kèm và sau 24 giờ thì sẽ sấy khô để thành phân bón. Phân bón sẽ là dạng bột thô, chúng ta có thể đổ trực tiếp lên mặt đất các loại cây, rau."
+        },
+        {
+          "typeMedia": 1,
+          "value": "Bên cạnh xử lý rác thì nó còn giúp chúng ta phân loại rác, bạn cho rác hữu cơ vào đây thì những thứ còn lại sẽ là rác vô cơ và cho vào một thùng rác khác. Việc xử lý ngay tại nhà cũng giúp bạn không thải ra ngoài số lượng rác hữu cơ hàng ngày, đóng góp một chút vào bảo vệ môi trường. Máy cũng có kết nối không dây tới điện thoại để bạn điều khiển quá trình xử lý rác hàng ngày. Khi mua bạn sẽ được tặng 2 gói bột phụ gia và màng lọc, hết thì phải đặt mua thêm."
         }
      ]
   }
