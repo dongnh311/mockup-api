@@ -38,6 +38,7 @@
         "starNumber": 4.5,
         "dateTime": 1602241705698,
         "catalogId": 1,
+         "avatar": "https://photo2.tinhte.vn/data/avatars/l/2448/2448420.jpg?1594558714"
       },
       {
         "nameUser" : "Quang Thắng",
@@ -45,6 +46,7 @@
         "starNumber": 0.0,
         "dateTime": 1602241763935,
         "catalogId": 1,
+        "avatar": "https://photo2.tinhte.vn/data/avatars/l/1753/1753738.jpg?1460377649"
       },
       {
         "nameUser" : "Hữu Văn Lý Thể",
@@ -52,6 +54,7 @@
         "starNumber": 5.0,
         "dateTime": 1602241823075,
         "catalogId": 1,
+         "avatar": "https://photo2.tinhte.vn/data/avatars/l/2490/2490904.jpg?1540173514""
       },
       {
         "nameUser" : "Thằng trời đánh nào đó",
@@ -59,6 +62,15 @@
         "starNumber": 5.0,
         "dateTime": 1602241823075,
         "catalogId": 1,
+         "avatar": "https://photo2.tinhte.vn/data/avatars/l/2565/2565206.jpg?1556361809"
+      },
+      {
+        "nameUser" : "Văn Việt",
+        "comment": "Rất nhiệt tình, vui tính, giá cả ok.",
+        "starNumber": 3.0,
+        "dateTime": 1602241823075,
+        "catalogId": 1,
+         "avatar": "https://photo2.tinhte.vn/data/avatars/l/2388/2388516.jpg?1590828541"
       }
     ]
   }
