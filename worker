@@ -3,8 +3,8 @@
     "userId": "ABCDEFGH",
     "phoneNumber": "0392456789",
     "name": "Cửa hàng sửa xe máy Thanh Trọng",
-    "starNumber": 4.3,
-    "favouriteNumber": 127,
+    "star": 4.3,
+    "favourite": 127,
     "isDynamicLocation": false,
     "address": "33 Đ. Nguyễn Quang Bích, Phường 13, Quận Tân Bình, Tp.Hồ Chí Minh, Việt Nam",
     "avatar": { 
