@@ -33,32 +33,20 @@
     },
     "commentObjects" : [
       {
-        "nameUser" : "Trọng Sắc",
-        "comment": "Mọi thứ trên cả tuyệt vời",
-        "starNumber": 4.5,
+        "nameUser" : "Cửa hàng xe máy Văn Mạnh",
+        "comment": "Lừa đảo, gọi xong không thấy đâu",
+        "starNumber": 0.0,
         "dateTime": 1602241705698,
         "catalogId": 1,
+        "avatar": "https://photo2.tinhte.vn/data/avatars/l/345/345142.jpg?1394077624"
       },
       {
-        "nameUser" : "Quang Thắng",
-        "comment": "Làm việc chậm chạp \n Lấy giá cao",
+        "nameUser" : "Bãi đậu xe Thanh Bình",
+        "comment": "Không hiểu thằng này bị gì nữa",
         "starNumber": 0.0,
         "dateTime": 1602241763935,
         "catalogId": 1,
-      },
-      {
-        "nameUser" : "Hữu Văn Lý Thể",
-        "comment": "Sửa xe tận tâm lắm luôn, chủ thì nhiệt tình, ở xa vẫn chạy qua giúp mình.",
-        "starNumber": 5.0,
-        "dateTime": 1602241823075,
-        "catalogId": 1,
-      },
-      {
-        "nameUser" : "Thằng trời đánh nào đó",
-        "comment": "Chưa thấy lý do nào chê chỗ này, mỗi tội lấy giá hơi cao.\n Lần sau có hư nữa thì sẽ ủng hộ.",
-        "starNumber": 5.0,
-        "dateTime": 1602241823075,
-        "catalogId": 1,
+        "avatar": "https://photo2.tinhte.vn/data/avatars/l/2421/2421674.jpg?1523339125"
       }
     ]
   }
