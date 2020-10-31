@@ -7,11 +7,11 @@
     "mode": false,
     "favourite": 0,
     "isDynamicLocation": false,
-    "address": "33 Đ. Nguyễn Quang Bích, Phường 13, Quận Tân Bình, Tp.Hồ Chí Minh, Việt Nam",
     "avatar":{ "path": "https://photo2.tinhte.vn/data/avatars/l/52/52034.jpg?1542911383"},
     "location": {
       "latitude": 10.80456,
-      "longitude": 106.6456789
+      "longitude": 106.6456789,
+      "address": "33 Đ. Nguyễn Quang Bích, Phường 13, Quận Tân Bình, Tp.Hồ Chí Minh, Việt Nam"
     },
     "images": [ 
       {
