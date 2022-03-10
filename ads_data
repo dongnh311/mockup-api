@@ -1,8 +1,11 @@
 {
-  "data" : {
-    "urlImage" : "https://raw.githubusercontent.com/dongnh311/mockup-api/main/image%201ads%403x.png",
-    "dateTime" : "2022/11/03",
-    "timeToView" : 2000,
-    "urlDetail" : "https://github.com/dongnh311/mockup-api"
-  }
+  "data" : [
+    {
+      "id" : 1,
+      "urlImage" : "https://raw.githubusercontent.com/dongnh311/mockup-api/main/image%201ads%403x.png",
+      "dateTime" : "2022/11/03",
+      "timeToView" : 2000,
+      "urlDetail" : "https://github.com/dongnh311/mockup-api"
+      }
+  ]
 }
