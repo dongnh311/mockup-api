@@ -1,0 +1,27 @@
+{
+    "result": "SUCCESS",
+    "data": {
+        "contentsId": 2010124,
+        "contentsTitle": "Deutscher Titel Janina",
+        "contentsAlias": "Del_2006",
+        "episodeId": 1015320,
+        "episodeTitle": "test ep.3",
+        "episodeAlias": "3",
+        "isLogin": true,
+        "isAdult": false,
+        "possessionCoin": 3,
+        "rentCoin": 3,
+        "permanentCoin": 3,
+        "isAvailable": false,
+        "priceInfo": {
+            "allPossessionCoin": 6,
+            "allPossessionCount": 2,
+            "allRentCoin": 6,
+            "allRentCount": 2
+        },
+        "isPossessionGift": false,
+        "isRentGift": false,
+        "isRentFreetime": false,
+        "contentsFreetimeInfo": null
+    }
+}
