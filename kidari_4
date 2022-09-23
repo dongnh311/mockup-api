@@ -1,0 +1,160 @@
+{
+    "result": "SUCCESS",
+    "data": {
+        "id": 2010124,
+        "alias": "Del_2006",
+        "title": "Deutscher Titel Janina",
+        "isAdult": false,
+        "isComplete": false,
+        "tag": "FREITAG,SLICE OF LIFE",
+        "synopsis": "Zusammenfassung",
+        "oneRentPeriod": 259200000,
+        "allRentPeriod": 604800000,
+        "saleType": "PURCHASE_ONLY",
+        "status": "SCHEDULED",
+        "devices": {
+            "isWeb": true,
+            "isAndPlay": true,
+            "isIosApp": true
+        },
+        "episodes": [
+            {
+                "id": 1015314,
+                "alias": "2",
+                "title": "ep.2",
+                "subTitle": "Feierabend",
+                "openedAt": 1651446000000,
+                "isLogin": false,
+                "isAdult": false,
+                "possessionCoin": 3,
+                "rentCoin": 3,
+                "permanentCoin": 3,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/ep_thumbnail/26277/1651157889011.webp",
+                        "type": "COMMON"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/ep_thumbnail/26277/1651157889050.webp",
+                        "type": "NON_ADULT"
+                    }
+                ],
+                "orderNo": 1,
+                "eventPossessionCoin": null,
+                "eventRentCoin": null,
+                "purchaseStatus": "POSSESSION",
+                "expiredAt": 0,
+                "isRentGift": false,
+                "isPossessionGift": false,
+                "isRentFreetime": false
+            },
+            {
+                "id": 1015317,
+                "alias": "1",
+                "title": "ep.1",
+                "subTitle": "Langer Arbeitstag",
+                "openedAt": 1651186800000,
+                "isLogin": false,
+                "isAdult": false,
+                "possessionCoin": 3,
+                "rentCoin": 3,
+                "permanentCoin": 3,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/ep_thumbnail/26269/1651157430404.webp",
+                        "type": "COMMON"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/ep_thumbnail/26269/1651157430573.webp",
+                        "type": "NON_ADULT"
+                    }
+                ],
+                "orderNo": 2,
+                "eventPossessionCoin": null,
+                "eventRentCoin": null,
+                "purchaseStatus": null,
+                "expiredAt": 0,
+                "isRentGift": false,
+                "isPossessionGift": false,
+                "isRentFreetime": false
+            },
+            {
+                "id": 1015320,
+                "alias": "3",
+                "title": "test ep.3",
+                "subTitle": "",
+                "openedAt": 1652403600000,
+                "isLogin": true,
+                "isAdult": false,
+                "possessionCoin": 3,
+                "rentCoin": 3,
+                "permanentCoin": 3,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/ep_thumbnail/34004/1652405668616.webp",
+                        "type": "COMMON"
+                    }
+                ],
+                "orderNo": 3,
+                "eventPossessionCoin": null,
+                "eventRentCoin": null,
+                "purchaseStatus": null,
+                "expiredAt": 0,
+                "isRentGift": false,
+                "isPossessionGift": false,
+                "isRentFreetime": false
+            }
+        ],
+        "isFavorite": false,
+        "recentEpisodeId": 1015314,
+        "thumbnails": [
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871507.webp",
+                "type": "HORIZONTAL_TYPE_A"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871615.webp",
+                "type": "VERTICAL"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871677.webp",
+                "type": "SQUARE"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871748.webp",
+                "type": "MAIN"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871810.webp",
+                "type": "MAIN_NON_ADULT"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871886.webp",
+                "type": "DETAIL"
+            },
+            {
+                "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871967.webp",
+                "type": "DETAIL_NON_ADULT"
+            }
+        ],
+        "viewCount": 21,
+        "favoriteCount": 1,
+        "commentCount": 0,
+        "bestComment": null,
+        "isSale": true,
+        "schedules": [
+            "GROUP_SCHEDULE_FRIDAY"
+        ],
+        "hasViewerBottomBanner": false,
+        "contentsFreetimeInfo": null,
+        "creators": [
+            {
+                "creatorId": 249,
+                "name": "PseudonymAutor",
+                "type": "AUTHOR"
+            }
+        ],
+        "freetimeOffsetTime": null,
+        "freetimeExpiredAt": null
+    }
+}
