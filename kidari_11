@@ -1,0 +1,4759 @@
+{
+    "result": "SUCCESS",
+    "data": [
+        {
+            "ranking": 1,
+            "rankingGap": 150,
+            "id": 2010124,
+            "alias": "Del_2006",
+            "title": "Deutscher Titel Janina",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871507.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871615.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871677.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871748.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871810.webp",
+                    "type": "MAIN_NON_ADULT"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871886.webp",
+                    "type": "DETAIL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871967.webp",
+                    "type": "DETAIL_NON_ADULT"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 0,
+                "freetime": false
+            },
+            "viewCount": 21,
+            "tag": "FREITAG,SLICE OF LIFE",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1652403600000,
+            "creators": "PseudonymAutor"
+        },
+        {
+            "ranking": 2,
+            "rankingGap": -1,
+            "id": 10002,
+            "alias": "dad_0010002",
+            "title": "Die Liebhaber des Schwarzen Drachen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Komödie,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "July Archive, Kidari Studio"
+        },
+        {
+            "ranking": 3,
+            "rankingGap": -1,
+            "id": 10003,
+            "alias": "dad_0010003",
+            "title": "Lucia",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Skye, TARUVI"
+        },
+        {
+            "ranking": 4,
+            "rankingGap": -1,
+            "id": 10004,
+            "alias": "dad_0010004",
+            "title": "Die Maske runter!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Romance,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1625266800000,
+            "creators": "MIN, Merin, Hanna Park"
+        },
+        {
+            "ranking": 5,
+            "rankingGap": -1,
+            "id": 10005,
+            "alias": "dad_0010005",
+            "title": "Die Glyzinie im Palast",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Historisch,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646089200000,
+            "creators": "Tae Roo Yoon, Ji-Sang Shin, Ga-Yang"
+        },
+        {
+            "ranking": 6,
+            "rankingGap": -1,
+            "id": 10006,
+            "alias": "dad_0010006",
+            "title": "Verrückt nach dir",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Komödie,Slice of Life",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Wang Ki Dae, Doseon"
+        },
+        {
+            "ranking": 7,
+            "rankingGap": -1,
+            "id": 10007,
+            "alias": "dad_0010007",
+            "title": "Medical Rebirth",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Drama,Fantasy,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646002800000,
+            "creators": "Hyo Eun Jho, Sunny & Joung"
+        },
+        {
+            "ranking": 8,
+            "rankingGap": -1,
+            "id": 10008,
+            "alias": "dad_0010008",
+            "title": "Die blonde Elementaristin",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Glby, Domac"
+        },
+        {
+            "ranking": 9,
+            "rankingGap": -1,
+            "id": 10009,
+            "alias": "dad_0010009",
+            "title": "Geheime Harmonie",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Sentimental,Drama",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Wanggidae"
+        },
+        {
+            "ranking": 10,
+            "rankingGap": -1,
+            "id": 10010,
+            "alias": "dad_0010010",
+            "title": "Dr Elise, die Dame mit der Lampe",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Yuin, Mini"
+        },
+        {
+            "ranking": 11,
+            "rankingGap": -1,
+            "id": 10011,
+            "alias": "dad_0010011",
+            "title": "Oh! Mein Assistent!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Boys Love,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1621206000000,
+            "creators": "Mila, AngryMonster"
+        },
+        {
+            "ranking": 13,
+            "rankingGap": -1,
+            "id": 10013,
+            "alias": "dad_0010013",
+            "title": "Goodbye Devil",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Sentimental,Drama",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1634079600000,
+            "creators": "Hwa Paek, Jamok"
+        },
+        {
+            "ranking": 14,
+            "rankingGap": -1,
+            "id": 10014,
+            "alias": "dad_0010014",
+            "title": "Wie ich auf dem Landsitz Wynknight überlebte",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Milcha, Whale"
+        },
+        {
+            "ranking": 15,
+            "rankingGap": -1,
+            "id": 10015,
+            "alias": "dad_0010015",
+            "title": "Adelaide",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Chae Habin, SUHO"
+        },
+        {
+            "ranking": 16,
+            "rankingGap": -1,
+            "id": 10016,
+            "alias": "dad_0010016",
+            "title": "Am seidenen Faden",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Romance,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1625094000000,
+            "creators": "Bihyang, Winter Rain, Sweet Taste"
+        },
+        {
+            "ranking": 17,
+            "rankingGap": -1,
+            "id": 10017,
+            "alias": "dad_0010017",
+            "title": "Die Versprochene des dämonischen Königs",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1650754800000,
+            "creators": "Lee Dong-hee, Fuyusora"
+        },
+        {
+            "ranking": 18,
+            "rankingGap": -1,
+            "id": 10018,
+            "alias": "dad_0010018",
+            "title": "Paramour",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Boys Love,Sentimental,Drama",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Brothers Without a Tomorrow"
+        },
+        {
+            "ranking": 19,
+            "rankingGap": -1,
+            "id": 10019,
+            "alias": "dad_0010019",
+            "title": "Bis sich ihre Lippen berühren",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Boys Love,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1626217200000,
+            "creators": "Nabit, Luper"
+        },
+        {
+            "ranking": 20,
+            "rankingGap": -1,
+            "id": 10020,
+            "alias": "dad_0010020",
+            "title": "Leidenschaftliche Umarmung",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Boys Love,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Nabit, Si Reu"
+        },
+        {
+            "ranking": 22,
+            "rankingGap": -1,
+            "id": 10022,
+            "alias": "dad_0010022",
+            "title": "Die Rückkehr des Drachen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Action,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "HOSAN"
+        },
+        {
+            "ranking": 23,
+            "rankingGap": -1,
+            "id": 10023,
+            "alias": "dad_0010023",
+            "title": "The Beginning after the end",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Action,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "TurtleMe, fuyuki23"
+        },
+        {
+            "ranking": 24,
+            "rankingGap": -1,
+            "id": 10024,
+            "alias": "dad_0010024",
+            "title": "Der dimensionale Söldner",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Action,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Geumho, Jaehwan Kim"
+        },
+        {
+            "ranking": 25,
+            "rankingGap": -1,
+            "id": 10025,
+            "alias": "dad_0010025",
+            "title": "Krieg der Mücken",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Abenteuer,Fantasy,Sci-Fi",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1621206000000,
+            "creators": "Jeong Ji-hoon"
+        },
+        {
+            "ranking": 27,
+            "rankingGap": -1,
+            "id": 10027,
+            "alias": "dad_0010027",
+            "title": "Die geheime Einweihung der Kaiserin",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646175600000,
+            "creators": "Han Seram, TOM"
+        },
+        {
+            "ranking": 28,
+            "rankingGap": -1,
+            "id": 10028,
+            "alias": "dad_0010028",
+            "title": "Perverse Spiele",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Boys Love,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1636671600000,
+            "creators": "Nas"
+        },
+        {
+            "ranking": 29,
+            "rankingGap": -1,
+            "id": 10029,
+            "alias": "dad_0010029",
+            "title": "Der Unsterbliche",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Action,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Hwan Daeng"
+        },
+        {
+            "ranking": 31,
+            "rankingGap": -1,
+            "id": 10031,
+            "alias": "dad_0010031",
+            "title": "Return of the Demonic Master",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Action,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Azi, Mayorang, Wolbaek"
+        },
+        {
+            "ranking": 32,
+            "rankingGap": -1,
+            "id": 10032,
+            "alias": "dad_0010032",
+            "title": "Adonis",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Hyedori & Team Adonis"
+        },
+        {
+            "ranking": 33,
+            "rankingGap": -1,
+            "id": 10033,
+            "alias": "dad_0010033",
+            "title": "Tochter des Königs",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "Bichu, Kim Rekna"
+        },
+        {
+            "ranking": 34,
+            "rankingGap": -1,
+            "id": 10034,
+            "alias": "dad_0010034",
+            "title": "Prinzessin der Finsternis",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "MinJakk, Liaran, ROKMEDIA"
+        },
+        {
+            "ranking": 36,
+            "rankingGap": -1,
+            "id": 10036,
+            "alias": "dad_0010036",
+            "title": "Der Rand des Himmels ",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Fantasy,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "SMA"
+        },
+        {
+            "ranking": 37,
+            "rankingGap": -1,
+            "id": 10037,
+            "alias": "dad_0010037",
+            "title": "101 Wege sie verführen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Romance,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1626908400000,
+            "creators": "Hwangmin"
+        },
+        {
+            "ranking": 38,
+            "rankingGap": -1,
+            "id": 10038,
+            "alias": "dad_0010038",
+            "title": "Der Tag, an dem der Tiger heiratete",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Boys Love,Fantasy,Boys Love",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Durumari, Kimhya"
+        },
+        {
+            "ranking": 40,
+            "rankingGap": -1,
+            "id": 10040,
+            "alias": "dad_0010040",
+            "title": "K, the Cleaner",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Action,Drama,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Shin jin woo, Hong Soon-sik"
+        },
+        {
+            "ranking": 41,
+            "rankingGap": -1,
+            "id": 10041,
+            "alias": "dad_0010041",
+            "title": "Böse Cinderella & Gemeiner Kompagnon!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Fantasy,Romance,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1638226800000,
+            "creators": "Gong eun hwa, kkanaria, Bbiyak"
+        },
+        {
+            "ranking": 42,
+            "rankingGap": -1,
+            "id": 10042,
+            "alias": "dad_0010042",
+            "title": "Das Lied des Mondes",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Fantasy,Abenteuer,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Chara, Cha Sohee"
+        },
+        {
+            "ranking": 43,
+            "rankingGap": -1,
+            "id": 10043,
+            "alias": "dad_0010043",
+            "title": "Die Rückkehr des grossen Magiers",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Fantasy,Abenteuer,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Barnacle, Hakhasan"
+        },
+        {
+            "ranking": 44,
+            "rankingGap": -1,
+            "id": 10044,
+            "alias": "dad_0010044",
+            "title": "Shark",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Lee Se-un, Kim U-seop, Jean"
+        },
+        {
+            "ranking": 45,
+            "rankingGap": -1,
+            "id": 10045,
+            "alias": "dad_0010045",
+            "title": "Der Mann mit den roten Augen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Fantasy,Romance",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1632610800000,
+            "creators": "Boaz & Deerchaser, studioaire"
+        },
+        {
+            "ranking": 47,
+            "rankingGap": -1,
+            "id": 10047,
+            "alias": "dad_0010047",
+            "title": "A Form of Sympathy",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Boys Love,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Nodeok"
+        },
+        {
+            "ranking": 48,
+            "rankingGap": -1,
+            "id": 10048,
+            "alias": "dad_0010048",
+            "title": "Es ist nicht mehr Liebe",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Cassiopeia, SUSU"
+        },
+        {
+            "ranking": 49,
+            "rankingGap": -1,
+            "id": 10049,
+            "alias": "dad_0010049",
+            "title": "Clockwork Empire",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Abenteuer,Action,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1643151600000,
+            "creators": "Kim Hyun-Ho"
+        },
+        {
+            "ranking": 50,
+            "rankingGap": -1,
+            "id": 10050,
+            "alias": "dad_0010050",
+            "title": "Zeri Ruri",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Ohyeon"
+        },
+        {
+            "ranking": 51,
+            "rankingGap": -1,
+            "id": 10051,
+            "alias": "dad_0010051",
+            "title": "The Lout of the count's family",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Yu Lyeo-Han, Pan4, Byeol Na-Lae"
+        },
+        {
+            "ranking": 52,
+            "rankingGap": -1,
+            "id": 10052,
+            "alias": "dad_0010052",
+            "title": "Das Raumschiff der Lady",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Sci-Fi,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Romeo_Tango, Yeong Yeong"
+        },
+        {
+            "ranking": 53,
+            "rankingGap": -1,
+            "id": 10053,
+            "alias": "dad_0010053",
+            "title": "Die Tochter des Elementarkönigs",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Park Shin-Ae, Kkul Cha, C.light"
+        },
+        {
+            "ranking": 54,
+            "rankingGap": -1,
+            "id": 10054,
+            "alias": "dad_0010054",
+            "title": "Mein neues Leben als Millionärstochter",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Komödie,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1640300400000,
+            "creators": "RAY, CHIGURI"
+        },
+        {
+            "ranking": 55,
+            "rankingGap": -1,
+            "id": 10055,
+            "alias": "dad_0010055",
+            "title": "Ein verhängnisvoller Kuss",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 7,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Boys Love,Boys Love",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1637276400000,
+            "creators": "Mat Sugar"
+        },
+        {
+            "ranking": 57,
+            "rankingGap": -1,
+            "id": 10057,
+            "alias": "dad_0010057",
+            "title": "Ernsthaft? Ein Gegenstand?!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Honghye"
+        },
+        {
+            "ranking": 58,
+            "rankingGap": -1,
+            "id": 10058,
+            "alias": "dad_0010058",
+            "title": "Gedicht von Asche und Staub",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Drama,Fantasy,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Simsang"
+        },
+        {
+            "ranking": 59,
+            "rankingGap": -1,
+            "id": 10059,
+            "alias": "dad_0010059",
+            "title": "Ich zähmte den Tyrannen und rannte weg",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Jihyun, Melting, yusoy"
+        },
+        {
+            "ranking": 60,
+            "rankingGap": -1,
+            "id": 10060,
+            "alias": "dad_0010060",
+            "title": "Der Silberne Dämonenkönig",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Fantasy,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645743600000,
+            "creators": "Team Daramz, Lee Hwan"
+        },
+        {
+            "ranking": 61,
+            "rankingGap": -1,
+            "id": 10061,
+            "alias": "dad_0010061",
+            "title": "Dungeon Majesty",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Fantasy,Action,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "Studio Lambda, Badia"
+        },
+        {
+            "ranking": 62,
+            "rankingGap": -1,
+            "id": 10062,
+            "alias": "dad_0010062",
+            "title": "Valentine Kiss",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1651791600000,
+            "creators": "Kim, Hee Seoung, Lee, Yu Su"
+        },
+        {
+            "ranking": 63,
+            "rankingGap": -1,
+            "id": 10063,
+            "alias": "dad_0010063",
+            "title": "Wedding Road",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Asurazang"
+        },
+        {
+            "ranking": 64,
+            "rankingGap": -1,
+            "id": 10064,
+            "alias": "dad_0010064",
+            "title": "Die grüne Krone",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646262000000,
+            "creators": "Sarkk, Binu, Siya"
+        },
+        {
+            "ranking": 65,
+            "rankingGap": -1,
+            "id": 10065,
+            "alias": "dad_0010065",
+            "title": "Kurs: Nord-nordwest",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1631401200000,
+            "creators": "Nu Nal, Yun Yang, Song Youn"
+        },
+        {
+            "ranking": 66,
+            "rankingGap": -1,
+            "id": 10066,
+            "alias": "dad_0010066",
+            "title": "Red Storm",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Abenteuer,Action,Abenteur",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "No kyoungchan, Amhyun"
+        },
+        {
+            "ranking": 67,
+            "rankingGap": -1,
+            "id": 10067,
+            "alias": "dad_0010067",
+            "title": "Braut des Himmels",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Fantasy,Historisch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645830000000,
+            "creators": "Moonsol, Heemyeong"
+        },
+        {
+            "ranking": 68,
+            "rankingGap": -1,
+            "id": 10068,
+            "alias": "dad_0010068",
+            "title": "Wir sehen uns am Mittwoch",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Sentimental,Slice of Life",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Boogie"
+        },
+        {
+            "ranking": 69,
+            "rankingGap": -1,
+            "id": 10069,
+            "alias": "dad_0010069",
+            "title": "Sie ist die Nebenfigur!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646089200000,
+            "creators": "Ellianyang, Yumyum"
+        },
+        {
+            "ranking": 70,
+            "rankingGap": -1,
+            "id": 10070,
+            "alias": "dad_0010070",
+            "title": "Ich werde dich glücklich machen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Komödie,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Ryu Ho"
+        },
+        {
+            "ranking": 71,
+            "rankingGap": -1,
+            "id": 10071,
+            "alias": "dad_0010071",
+            "title": "Meine Schwester hat den Hauptcharakter aufgelesen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645743600000,
+            "creators": "Doubu, Moon Si Hyun"
+        },
+        {
+            "ranking": 72,
+            "rankingGap": -1,
+            "id": 10072,
+            "alias": "dad_0010072",
+            "title": "Who are you, Creator?",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Boys Love,Drama,Slice of Life",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Muto & rodeung"
+        },
+        {
+            "ranking": 73,
+            "rankingGap": -1,
+            "id": 10073,
+            "alias": "dad_0010073",
+            "title": "Bin ich die Tochter?",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645916400000,
+            "creators": "HASH, Flow"
+        },
+        {
+            "ranking": 74,
+            "rankingGap": -1,
+            "id": 10074,
+            "alias": "dad_0010074",
+            "title": "Space Sweepers",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Sci-Fi",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1634943600000,
+            "creators": "Hongjacga"
+        },
+        {
+            "ranking": 75,
+            "rankingGap": -1,
+            "id": 10075,
+            "alias": "dad_0010075",
+            "title": "Die Boutique in der Sheldonstrasse 97",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Abenteuer,Comédie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "hyounghyun"
+        },
+        {
+            "ranking": 76,
+            "rankingGap": -1,
+            "id": 10076,
+            "alias": "dad_0010076",
+            "title": "Der junge Herr und sein Assistent",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Boys Love,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1635807600000,
+            "creators": "SUO KIM, Fyoryu"
+        },
+        {
+            "ranking": 77,
+            "rankingGap": -1,
+            "id": 10077,
+            "alias": "dad_0010077",
+            "title": "Es ist mir nicht geheuer",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Fantasy,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Han, Song-yi"
+        },
+        {
+            "ranking": 78,
+            "rankingGap": -1,
+            "id": 10078,
+            "alias": "dad_0010078",
+            "title": "Pitch",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Action,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1644793200000,
+            "creators": "Hong Sung Soo, JiDDung x Yong"
+        },
+        {
+            "ranking": 79,
+            "rankingGap": -1,
+            "id": 10079,
+            "alias": "dad_0010079",
+            "title": "Der magische Schwertkämpfer",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Abenteuer,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "DIAN, UJUJellyfish"
+        },
+        {
+            "ranking": 80,
+            "rankingGap": -1,
+            "id": 10080,
+            "alias": "dad_0010080",
+            "title": "One",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Lee Eunjae"
+        },
+        {
+            "ranking": 81,
+            "rankingGap": -1,
+            "id": 10081,
+            "alias": "dad_0010081",
+            "title": "Black guy, white girl",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Do, Reang"
+        },
+        {
+            "ranking": 82,
+            "rankingGap": -1,
+            "id": 10082,
+            "alias": "dad_0010082",
+            "title": "Küsse hinter den Kulissen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "Romance",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1644620400000,
+            "creators": "C-Do.B, Su Jeong Gwa"
+        },
+        {
+            "ranking": 83,
+            "rankingGap": -1,
+            "id": 10083,
+            "alias": "dad_0010083",
+            "title": "Tochter des Teufels",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "Eunmin, Yeowool"
+        },
+        {
+            "ranking": 84,
+            "rankingGap": -1,
+            "id": 10084,
+            "alias": "dad_0010084",
+            "title": "Holy Me",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646089200000,
+            "creators": "Cooara, Haenok"
+        },
+        {
+            "ranking": 85,
+            "rankingGap": -1,
+            "id": 10085,
+            "alias": "dad_0010085",
+            "title": "Panfia",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "JIPELY"
+        },
+        {
+            "ranking": 86,
+            "rankingGap": -1,
+            "id": 10086,
+            "alias": "dad_0010086",
+            "title": "Der Turm des Zauberers",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Abenteuer,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646866800000,
+            "creators": "Bak Seongbeom, Seong Sangyeong"
+        },
+        {
+            "ranking": 87,
+            "rankingGap": -1,
+            "id": 10087,
+            "alias": "dad_0010087",
+            "title": "Linie 1",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Action,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Lee Eunjae"
+        },
+        {
+            "ranking": 88,
+            "rankingGap": -1,
+            "id": 2000091,
+            "alias": "dad_2000091",
+            "title": "Dear Door",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Boys Love,Fantasy,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Pluto"
+        },
+        {
+            "ranking": 90,
+            "rankingGap": -1,
+            "id": 2000093,
+            "alias": "dad_2000093",
+            "title": "Die junge Braut des Dämonenherzogs",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Daon Comics"
+        },
+        {
+            "ranking": 91,
+            "rankingGap": -1,
+            "id": 2000094,
+            "alias": "dad_2000094",
+            "title": "Ich bin der Hexermeister",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Action,Abenteuer,Action Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646175600000,
+            "creators": "deca spell"
+        },
+        {
+            "ranking": 92,
+            "rankingGap": -1,
+            "id": 2000095,
+            "alias": "dad_2000095",
+            "title": "Prinzessin Lilie entlobt sich",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Fantasy,Komödie,Romance Fantasy Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Mii"
+        },
+        {
+            "ranking": 93,
+            "rankingGap": -1,
+            "id": 2000096,
+            "alias": "dad_2000096",
+            "title": "Ornithophobia",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Abenteuer,Action,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "JONOON, LEEDO"
+        },
+        {
+            "ranking": 94,
+            "rankingGap": -1,
+            "id": 2000097,
+            "alias": "dad_2000097",
+            "title": "TEN",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Drama,Slice of Life,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Lee Eunjae"
+        },
+        {
+            "ranking": 95,
+            "rankingGap": -1,
+            "id": 2000099,
+            "alias": "dad_2000099",
+            "title": "Love so pure",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Boys Love,Komödie,Boys Love",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645052400000,
+            "creators": "PlanB"
+        },
+        {
+            "ranking": 97,
+            "rankingGap": -1,
+            "id": 2000101,
+            "alias": "dad_2000101",
+            "title": "Revenge Wedding",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "SaRyong, ByulSatang Yang"
+        },
+        {
+            "ranking": 98,
+            "rankingGap": -1,
+            "id": 2000102,
+            "alias": "dad_2000102",
+            "title": "Candy Man",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Boys Love,Komödie,Slice of Life,Boys Love",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Romantic Restaurant, CHANOK"
+        },
+        {
+            "ranking": 99,
+            "rankingGap": -1,
+            "id": 2000103,
+            "alias": "dad_2000103",
+            "title": "Honey Blood",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1651186800000,
+            "creators": "Lee Narae"
+        },
+        {
+            "ranking": 100,
+            "rankingGap": -1,
+            "id": 2000104,
+            "alias": "dad_2000104",
+            "title": "Ich möchte den Prinzen nicht heiraten",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Pang-e, Ellianyang"
+        },
+        {
+            "ranking": 101,
+            "rankingGap": -1,
+            "id": 2000105,
+            "alias": "dad_2000105",
+            "title": "Alles war ein Irrtum",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "MIM, G-ANNE"
+        },
+        {
+            "ranking": 102,
+            "rankingGap": -1,
+            "id": 2000107,
+            "alias": "dad_2000107",
+            "title": "Gefährliche Schwärmerei",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Komödie,Fantasy,Schwärmerei,Fan,Ghostwriter,Tollpatsch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646175600000,
+            "creators": "Zoo Sun"
+        },
+        {
+            "ranking": 103,
+            "rankingGap": -1,
+            "id": 2000110,
+            "alias": "dad_2000110",
+            "title": "Die 13. Nacht",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Historisch,Drama",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Sirial"
+        },
+        {
+            "ranking": 104,
+            "rankingGap": -1,
+            "id": 2000111,
+            "alias": "dad_2000111",
+            "title": "Die Vertragspartner von Pandora",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Action,Fantasy,Abenteuer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Wooju"
+        },
+        {
+            "ranking": 105,
+            "rankingGap": -1,
+            "id": 2000115,
+            "alias": "dad_2000115",
+            "title": "Vielleicht Frühlingsgefühle",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Boys Love,Sentimental,Slice of Life",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645052400000,
+            "creators": "Park Jiyeon, Chaepali"
+        },
+        {
+            "ranking": 107,
+            "rankingGap": -1,
+            "id": 2000117,
+            "alias": "dad_2000117",
+            "title": "Heart Stain",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Boys Love,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645830000000,
+            "creators": "AG"
+        },
+        {
+            "ranking": 108,
+            "rankingGap": -1,
+            "id": 2000121,
+            "alias": "dad_2000121",
+            "title": "Was Krähen lieben",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy,Action",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "SSISSI, MIZU"
+        },
+        {
+            "ranking": 109,
+            "rankingGap": -1,
+            "id": 2000122,
+            "alias": "dad_2000122",
+            "title": "Abonniert euch beim ersten Stock!",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Komödie,Romance,Interessante Nachbarschaft,Youtuber",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Kim Hana"
+        },
+        {
+            "ranking": 110,
+            "rankingGap": -1,
+            "id": 2000123,
+            "alias": "dad_2000123",
+            "title": "Die Einzige nach meinem Geschmack",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance,Fantasy,Komödie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645570800000,
+            "creators": "Cocori"
+        },
+        {
+            "ranking": 111,
+            "rankingGap": -1,
+            "id": 2000124,
+            "alias": "dad_2000124",
+            "title": "Die Braut der Wüste",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645052400000,
+            "creators": "Nokibin, Cha Kyung Hee"
+        },
+        {
+            "ranking": 112,
+            "rankingGap": -1,
+            "id": 2000125,
+            "alias": "dad_2000125",
+            "title": "Glück und Glas",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Historisch,Falsche Braut,Schicksal",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646348400000,
+            "creators": "Noh Heeda, Eunren"
+        },
+        {
+            "ranking": 113,
+            "rankingGap": -1,
+            "id": 2000127,
+            "alias": "dad_2000127",
+            "title": "Stechende Dornen",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Thriller,Flugzeugabsturz,Zombies,Überleben",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646434800000,
+            "creators": "Macherie, Vex / Such, Piggyback"
+        },
+        {
+            "ranking": 114,
+            "rankingGap": -1,
+            "id": 2000128,
+            "alias": "dad_2000128",
+            "title": "Bevor ich dich verliere",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Drama,Sentimental,sliceoflife",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Gion"
+        },
+        {
+            "ranking": 115,
+            "rankingGap": -1,
+            "id": 2000130,
+            "alias": "dad_2000130",
+            "title": "Das magische Mädchen Lan",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Fantasy,Action,Magie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646348400000,
+            "creators": "EZ"
+        },
+        {
+            "ranking": 116,
+            "rankingGap": -1,
+            "id": 2000131,
+            "alias": "dad_2000131",
+            "title": "Blüte zu Blüte, Blatt zu Blatt",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Drama,Romance,Historisch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645743600000,
+            "creators": "Jihye Woo, gol_G, Haepyo"
+        },
+        {
+            "ranking": 118,
+            "rankingGap": -1,
+            "id": 2000134,
+            "alias": "dad_2000134",
+            "title": "Die Nacht des Raben",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Action,Romance,Geheimagent,Liebe auf den ersten Blick",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Jihye Woo, Aquavit"
+        },
+        {
+            "ranking": 119,
+            "rankingGap": -1,
+            "id": 2000135,
+            "alias": "dad_2000135",
+            "title": "Depths of Malice",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Drama,Mature",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Doori, Paldu(Akeo Studio), Lachic"
+        },
+        {
+            "ranking": 121,
+            "rankingGap": -1,
+            "id": 2000137,
+            "alias": "dad_2000137",
+            "title": "Friss mich nicht",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "SAHA, Sturgeon, BAEK JI-YEON"
+        },
+        {
+            "ranking": 122,
+            "rankingGap": -1,
+            "id": 2000138,
+            "alias": "dad_2000138",
+            "title": "Die neue Sekretärin des Königs",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Bammui, Studio Inus"
+        },
+        {
+            "ranking": 124,
+            "rankingGap": -1,
+            "id": 2000140,
+            "alias": "dad_2000140",
+            "title": "Fluch der Askanier",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Fantasy,Historisch,die verlorene Prinzessin,drei tyrannische Brüder",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645830000000,
+            "creators": "Jomil, km, Parkha"
+        },
+        {
+            "ranking": 125,
+            "rankingGap": -1,
+            "id": 2000141,
+            "alias": "dad_2000141",
+            "title": "Aus Prinz wird Idol",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Romance,Komödie,Historisch,Zeitreise",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Jung Chang-gyu, Im So-yeon"
+        },
+        {
+            "ranking": 126,
+            "rankingGap": -1,
+            "id": 2000142,
+            "alias": "dad_2000142",
+            "title": "Golden Times",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Romance,Slice of Life,Sentimental",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "HI-DOUNG"
+        },
+        {
+            "ranking": 127,
+            "rankingGap": -1,
+            "id": 2000143,
+            "alias": "dad_2000143",
+            "title": "Mund auf für den goldenen Löffel",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Fantasy,Komödie,Romance,Reichtum,Konkurrenz,Schwestern",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645398000000,
+            "creators": "Portofino, Sin Yu Seong"
+        },
+        {
+            "ranking": 128,
+            "rankingGap": -1,
+            "id": 2000144,
+            "alias": "dad_2000144",
+            "title": "Der liebe Wolf",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "neighbor's sister, nunal, Woo Yuyang"
+        },
+        {
+            "ranking": 129,
+            "rankingGap": -1,
+            "id": 2000145,
+            "alias": "dad_2000145",
+            "title": "Der Dämonenvertrag",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Romance,Fantasy,Drama,Königliche Familie,Rache,Dämonen",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646089200000,
+            "creators": "Kim Yunkyeong, Yeoul, C.light"
+        },
+        {
+            "ranking": 130,
+            "rankingGap": -1,
+            "id": 2000147,
+            "alias": "dad_2000147",
+            "title": "Dracorun",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Fantasy,Action,Abenteuer,Drachen",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646521200000,
+            "creators": "Beumguinn"
+        },
+        {
+            "ranking": 131,
+            "rankingGap": -1,
+            "id": 2000148,
+            "alias": "dad_2000148",
+            "title": "Schneeblumen im Wind",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 29,
+            "tag": "SAMSTAG,Romance,Historisch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "IM HaeYeon"
+        },
+        {
+            "ranking": 132,
+            "rankingGap": -1,
+            "id": 2000149,
+            "alias": "dad_2000149",
+            "title": "Ein einziger Sommer",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Boys Love,Sentimental,Slice of Life,Boys Love,Sommer",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1644793200000,
+            "creators": "Munzi"
+        },
+        {
+            "ranking": 133,
+            "rankingGap": -1,
+            "id": 2000150,
+            "alias": "dad_2000150",
+            "title": "Mein seltsames Leben als Katze",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SONNTAG,Romance,Komödie,Katze,Deal mit dem Todesengel",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645311600000,
+            "creators": "kkanaria"
+        },
+        {
+            "ranking": 134,
+            "rankingGap": -1,
+            "id": 2000151,
+            "alias": "dad_2000151",
+            "title": "Präsident Langbein",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Komödie,Slice of Life,Waisenkind,Chef,Sekretärin",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "CHOI Mee Ae"
+        },
+        {
+            "ranking": 135,
+            "rankingGap": -1,
+            "id": 2000153,
+            "alias": "dad_2000153",
+            "title": "Dieb meines Herzens",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Boys Love,Komödie,Slice of Life,Boys Love",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Pengki"
+        },
+        {
+            "ranking": 136,
+            "rankingGap": -1,
+            "id": 2000161,
+            "alias": "dad_2000161",
+            "title": "Donggun: Herrscher über den Orient",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Action,Abenteuer,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645484400000,
+            "creators": "Lee Dani, Shin Jiu"
+        },
+        {
+            "ranking": 137,
+            "rankingGap": -1,
+            "id": 2010088,
+            "alias": "dad_2010088",
+            "title": "Die Mars-Chroniken",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Action,Fantasy",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645657200000,
+            "creators": "Bang In Young, Lee Seonghoo"
+        },
+        {
+            "ranking": 138,
+            "rankingGap": -1,
+            "id": 2010089,
+            "alias": "dad_2010089",
+            "title": "Ein Game zum Verlieben",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MITTWOCH,Romance",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646175600000,
+            "creators": "zuoxiaoling, kexiaosha"
+        },
+        {
+            "ranking": 139,
+            "rankingGap": -1,
+            "id": 2010090,
+            "alias": "dad_2010090",
+            "title": "Prinzessin auf Zeit",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 3,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Tanyeong"
+        },
+        {
+            "ranking": 140,
+            "rankingGap": -1,
+            "id": 2010098,
+            "alias": "dad_2010098",
+            "title": "Imitation",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "FREITAG,Romance,Komödie,K-Pop,Showbusiness,Musik",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645743600000,
+            "creators": "Park Kyung-Ran"
+        },
+        {
+            "ranking": 141,
+            "rankingGap": -1,
+            "id": 2010106,
+            "alias": "dad_2010106",
+            "title": "Wenn die böse Prinzessin sich verliebt",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,Romance,Fantasy,Prinzessin,Romanwelt,Mission",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645225200000,
+            "creators": "Seo Gwijo, HJ, DCBO"
+        },
+        {
+            "ranking": 142,
+            "rankingGap": -1,
+            "id": 2010108,
+            "alias": "dad_2010108",
+            "title": "Crimson Karma",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DIENSTAG,Action,Fantasy,Kriegerin,Mittelalter,Rebirth",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646089200000,
+            "creators": "Lemon Frog, Ssalsoup, Yasan, Rada"
+        },
+        {
+            "ranking": 143,
+            "rankingGap": -1,
+            "id": 2010109,
+            "alias": "dad_2010109",
+            "title": "Delicious Blood",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "MONTAG,Fantasy,Romance,Vampir,Tollpatsch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646607600000,
+            "creators": "La lune, Rosa, ZQ, ttuittui"
+        },
+        {
+            "ranking": 144,
+            "rankingGap": -1,
+            "id": 2010112,
+            "alias": "dad_2010112",
+            "title": "Gangster Rebirth",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "DONNERSTAG,Action,Slice of Life,Gangster,Hitzkopf,neue Chance,Forever 18",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646866800000,
+            "creators": "Sayeol, Yerang, Okks"
+        },
+        {
+            "ranking": 146,
+            "rankingGap": -1,
+            "id": 2010114,
+            "alias": "dad_2010114",
+            "title": "Königreich der Meister",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": false
+            },
+            "viewCount": 78,
+            "tag": "DIENSTAG,Action,Fantasy,Untote,Unsterblich,Künstler",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1647298800000,
+            "creators": "Muhwa"
+        },
+        {
+            "ranking": 147,
+            "rankingGap": -1,
+            "id": 2010119,
+            "alias": "dad_2010119",
+            "title": "Hundeschule",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 5,
+                "freetime": false
+            },
+            "viewCount": 24,
+            "tag": "FREITAG,Komödie,Fantasy,Monster,Schule,Ausreißer,Komedie",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1645138800000,
+            "creators": "Forest Choe"
+        },
+        {
+            "ranking": 148,
+            "rankingGap": -1,
+            "id": 2010120,
+            "alias": "dad_2010120",
+            "title": "Meine etwas zu entzückende Stieftochter",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "",
+                    "type": null
+                }
+            ],
+            "badge": {
+                "newest": false,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 4,
+                "freetime": true
+            },
+            "viewCount": 23,
+            "tag": "SAMSTAG,Romance,Fantasy,Stieftochter,Märchen",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1646434800000,
+            "creators": "Mo9Rang, Iru"
+        },
+        {
+            "ranking": 150,
+            "rankingGap": -1,
+            "id": 2010122,
+            "alias": "df_001",
+            "title": "Quitte ou Double ?",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/fr/co_thumbnail/df_001/1651151303826.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/fr/co_thumbnail/df_001/1651151304046.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/fr/co_thumbnail/df_001/1651151304213.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/fr/co_thumbnail/df_001/1651151304377.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/fr/co_thumbnail/df_001/1651151304573.webp",
+                    "type": "DETAIL"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 1,
+                "freetime": true
+            },
+            "viewCount": 27,
+            "tag": "DIENSTAG,ROMANCE,FANTASY,KOMÖDIE,Konkurrenz,Rebirth,Comédie,Tollpatsch",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1651528800000,
+            "creators": "oeuvre originale, auteur"
+        },
+        {
+            "ranking": 152,
+            "rankingGap": 0,
+            "id": 2010126,
+            "alias": "Del_1212",
+            "title": "Sarah",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_1212/1651152842551.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_1212/1651152842682.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_1212/1651152842809.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_1212/1651152842869.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_1212/1651152842936.webp",
+                    "type": "DETAIL"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 0,
+                "freetime": false
+            },
+            "viewCount": 0,
+            "tag": "SAMSTAG,DRAMA,Schicksal",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1651442400000,
+            "creators": "Tutu"
+        },
+        {
+            "ranking": 154,
+            "rankingGap": 0,
+            "id": 2010128,
+            "alias": "DEL_2103",
+            "title": "Lisaaaa",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037181.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037289.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037348.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037429.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037546.webp",
+                    "type": "DETAIL"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 2,
+                "freetime": false
+            },
+            "viewCount": 674,
+            "tag": "SAMSTAG,ROMANCE,SENTIMENTAL,SLICE OF LIFE",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1651442400000,
+            "creators": "Lala, Mala, Kiki, Nunu"
+        },
+        {
+            "ranking": 156,
+            "rankingGap": 0,
+            "id": 2010140,
+            "alias": "dbd_00094",
+            "title": "Aporia",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472444.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472550.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472638.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472681.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472725.webp",
+                    "type": "MAIN_NON_ADULT"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472796.webp",
+                    "type": "DETAIL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472869.webp",
+                    "type": "DETAIL_NON_ADULT"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 1,
+                "freetime": false
+            },
+            "viewCount": 114,
+            "tag": "MONTAG,BL",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1661814000000,
+            "creators": "SEONTAE"
+        }
+    ]
+}
