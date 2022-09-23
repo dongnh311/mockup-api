@@ -1,0 +1,61 @@
+{
+    "result": "SUCCESS",
+    "data": [
+        {
+            "id": 2010140,
+            "alias": "dbd_00094",
+            "title": "Aporia",
+            "isAdult": false,
+            "thumbnails": [
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472444.webp",
+                    "type": "HORIZONTAL_TYPE_A"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472550.webp",
+                    "type": "VERTICAL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472638.webp",
+                    "type": "SQUARE"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472681.webp",
+                    "type": "MAIN"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472725.webp",
+                    "type": "MAIN_NON_ADULT"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472796.webp",
+                    "type": "DETAIL"
+                },
+                {
+                    "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472869.webp",
+                    "type": "DETAIL_NON_ADULT"
+                }
+            ],
+            "badge": {
+                "newest": true,
+                "adult": false,
+                "scheduled": true,
+                "up": false,
+                "completed": false,
+                "recommended": false,
+                "discount": 0,
+                "free": 1,
+                "freetime": false
+            },
+            "viewCount": 114,
+            "tag": "MONTAG,BL",
+            "devices": {
+                "isWeb": true,
+                "isAndPlay": true,
+                "isIosApp": true
+            },
+            "updatedAt": 1661814000000,
+            "creators": "SEONTAE"
+        }
+    ]
+}
