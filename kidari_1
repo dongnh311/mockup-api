@@ -1,0 +1,198 @@
+{
+    "result": "SUCCESS",
+    "data": {
+        "content": [
+            {
+                "contentsId": 2010124,
+                "alias": "Del_2006",
+                "title": "Deutscher Titel Janina",
+                "isAdult": false,
+                "creators": "PseudonymAutor",
+                "tag": "FREITAG,SLICE OF LIFE",
+                "episodeId": 1015314,
+                "createdAt": 1662434205714,
+                "updatedAt": 1663926058025,
+                "openedAt": 1652403600000,
+                "episodeCount": 3,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871507.webp",
+                        "type": "HORIZONTAL_TYPE_A"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871615.webp",
+                        "type": "VERTICAL"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871677.webp",
+                        "type": "SQUARE"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871748.webp",
+                        "type": "MAIN"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871810.webp",
+                        "type": "MAIN_NON_ADULT"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871886.webp",
+                        "type": "DETAIL"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/Del_2006/1651152871967.webp",
+                        "type": "DETAIL_NON_ADULT"
+                    }
+                ],
+                "badge": {
+                    "newest": true,
+                    "adult": false,
+                    "scheduled": true,
+                    "up": false,
+                    "completed": false,
+                    "recommended": false,
+                    "freetime": false
+                },
+                "episode": {
+                    "episodeId": 1015314,
+                    "alias": "2",
+                    "title": "ep.2",
+                    "openedAt": 1651446000000
+                }
+            },
+            {
+                "contentsId": 2010128,
+                "alias": "DEL_2103",
+                "title": "Lisaaaa",
+                "isAdult": false,
+                "creators": "Lala, Mala, Kiki, Nunu",
+                "tag": "SAMSTAG,ROMANCE,SENTIMENTAL,SLICE OF LIFE",
+                "episodeId": 1015316,
+                "createdAt": 1662971941010,
+                "updatedAt": 1663123027130,
+                "openedAt": 1651442400000,
+                "episodeCount": 2,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037181.webp",
+                        "type": "HORIZONTAL_TYPE_A"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037289.webp",
+                        "type": "VERTICAL"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037348.webp",
+                        "type": "SQUARE"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037429.webp",
+                        "type": "MAIN"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/DEL_2103/1651153037546.webp",
+                        "type": "DETAIL"
+                    }
+                ],
+                "badge": {
+                    "newest": true,
+                    "adult": false,
+                    "scheduled": true,
+                    "up": false,
+                    "completed": false,
+                    "recommended": false,
+                    "freetime": false
+                },
+                "episode": {
+                    "episodeId": 1015316,
+                    "alias": "2",
+                    "title": "ep.2",
+                    "openedAt": 1651442400000
+                }
+            },
+            {
+                "contentsId": 2010140,
+                "alias": "dbd_00094",
+                "title": "Aporia",
+                "isAdult": false,
+                "creators": "SEONTAE",
+                "tag": "MONTAG,BL",
+                "episodeId": 1015326,
+                "createdAt": 1662964498504,
+                "updatedAt": 1662966461038,
+                "openedAt": 1661814000000,
+                "episodeCount": 1,
+                "thumbnails": [
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472444.webp",
+                        "type": "HORIZONTAL_TYPE_A"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472550.webp",
+                        "type": "VERTICAL"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472638.webp",
+                        "type": "SQUARE"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472681.webp",
+                        "type": "MAIN"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472725.webp",
+                        "type": "MAIN_NON_ADULT"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472796.webp",
+                        "type": "DETAIL"
+                    },
+                    {
+                        "imagePath": "https://dev-image.balcony.studio/de/co_thumbnail/dbd_00094/1661842472869.webp",
+                        "type": "DETAIL_NON_ADULT"
+                    }
+                ],
+                "badge": {
+                    "newest": true,
+                    "adult": false,
+                    "scheduled": true,
+                    "up": false,
+                    "completed": false,
+                    "recommended": false,
+                    "freetime": false
+                },
+                "episode": {
+                    "episodeId": 1015326,
+                    "alias": "1",
+                    "title": "1",
+                    "openedAt": 1661814000000
+                }
+            }
+        ],
+        "pageable": {
+            "sort": {
+                "sorted": false,
+                "unsorted": true,
+                "empty": true
+            },
+            "offset": 0,
+            "pageNumber": 0,
+            "pageSize": 10,
+            "paged": true,
+            "unpaged": false
+        },
+        "totalPages": 1,
+        "totalElements": 3,
+        "last": true,
+        "size": 10,
+        "number": 0,
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "numberOfElements": 3,
+        "first": true,
+        "empty": false
+    }
+}
