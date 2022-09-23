@@ -1,0 +1,12 @@
+{
+    "result": "SUCCESS",
+    "data": {
+        "coin": 25,
+        "freeCoin": 22,
+        "bonusCoin": 0,
+        "mileage": 0,
+        "coinExpiredAt": 0,
+        "bonusCoinExpiredAt": 0,
+        "mileageExpiredAt": 0
+    }
+}
