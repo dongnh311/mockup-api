@@ -1,5 +1,5 @@
 {
-  "data": [
+  "data": {
     "data": [
       {
         "id" : 1,
@@ -50,7 +50,7 @@
       "totalPages" : 1,
       "links" : null
     }
-  ],
+  },
   "status" : true,
   "message" : "Ahihi"
 }
