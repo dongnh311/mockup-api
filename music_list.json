@@ -1,0 +1,56 @@
+{
+  "data": [
+    "data": [
+      {
+        "id" : 1,
+        "nameMusic": "Waithing for you",
+        "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275150-9f672b16/128/Waiting%20For%20You%20-%20MONO_%20Onionn.mp3",
+        "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174241.jpg",
+        "duration" : 0,
+        "nameSinger" : "MONO"
+      },
+      {
+        "id" : 2,
+        "nameMusic": "Ai rồi cũng khác",
+        "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275519-486631dc/128/Ai%20Roi%20Cung%20Se%20Khac%20-%20Ha%20Nhi.mp3",
+        "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174373.jpg",
+        "duration" : 0,
+        "nameSinger" : "Hà Nhi"
+      },
+      {
+        "id" : 3,
+        "nameMusic": "Vương Vấn (TikTok Remix)",
+        "urlFile" : "https://data.chiasenhac.com/down2/2277/4/2276738-1f25d107/128/Vuong%20Van%20TikTok%20Remix_%20-%20Hana%20Cam%20Tien_.mp3",
+        "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174741.jpg",
+        "duration" : 0,
+        "nameSinger" : "Hana Cẩm Tiên"
+      },
+      {
+        "id" : 4,
+        "nameMusic": "Lâu Lâu Nhắc Lại",
+        "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275642-3da8faee/128/Lau%20Lau%20Nhac%20Lai%20-%20Ha%20Nhi_%20Khoi.mp3",
+        "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174416.jpg",
+        "duration" : 0,
+        "nameSinger" : " Hà Nhi"
+      },
+      {
+        "id" : 5,
+        "nameMusic": "Tòng Phu",
+        "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275157-5c132788/128/Tong%20Phu%20-%20Keyo.mp3",
+        "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174246.jpg",
+        "duration" : 0,
+        "nameSinger" : "Keyo"
+      }
+    ],
+    "meta" : { 
+      "currentPage" : 1,
+      "count" : 1,
+      "perPage" : 1,
+      "total" : 1,
+      "totalPages" : 1,
+      "links" : null
+    }
+  ],
+  "status" : true,
+  "message" : "Ahihi"
+}
