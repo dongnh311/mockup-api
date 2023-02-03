@@ -7,7 +7,8 @@
         "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275150-9f672b16/128/Waiting%20For%20You%20-%20MONO_%20Onionn.mp3",
         "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174241.jpg",
         "duration" : 0,
-        "nameSinger" : "MONO"
+        "nameSinger" : "MONO",
+        "star" : 4.5,
       },
       {
         "id" : 2,
@@ -15,7 +16,8 @@
         "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275519-486631dc/128/Ai%20Roi%20Cung%20Se%20Khac%20-%20Ha%20Nhi.mp3",
         "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174373.jpg",
         "duration" : 0,
-        "nameSinger" : "Hà Nhi"
+        "nameSinger" : "Hà Nhi",
+        "star" : 5.0,
       },
       {
         "id" : 3,
@@ -23,7 +25,8 @@
         "urlFile" : "https://data.chiasenhac.com/down2/2277/4/2276738-1f25d107/128/Vuong%20Van%20TikTok%20Remix_%20-%20Hana%20Cam%20Tien_.mp3",
         "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174741.jpg",
         "duration" : 0,
-        "nameSinger" : "Hana Cẩm Tiên"
+        "nameSinger" : "Hana Cẩm Tiên",
+        "star" : 3.9,
       },
       {
         "id" : 4,
@@ -39,7 +42,26 @@
         "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275157-5c132788/128/Tong%20Phu%20-%20Keyo.mp3",
         "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174246.jpg",
         "duration" : 0,
-        "nameSinger" : "Keyo"
+        "nameSinger" : "Keyo",
+        "star" : 4.2,
+      },
+      {
+        "id" : 6,
+        "nameMusic": "Hạ Phỏm",
+        "urlFile" : "https://data.chiasenhac.com/down2/2277/5/2276531-53ad3aad/128/Ha%20Phom%20-%20Hoang%20Thuy%20Linh.mp3",
+        "urlThumb" : "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/a/3/f/5/a3f56e82f054fe5e1d3451d4048ea828.jpg",
+        "duration" : 0,
+        "nameSinger" : "Hoang Thuy Linh",
+        "star" : 3.2,
+      },
+      {
+        "id" : 7,
+        "nameMusic": "Mong Một Ngày Anh Nhớ Đến Em (Single)",
+        "urlFile" : "https://data.chiasenhac.com/down2/2277/5/2276531-53ad3aad/128/Ha%20Phom%20-%20Hoang%20Thuy%20Linh.mp3",
+        "urlThumb" : "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/9/f/5/6/9f56590f09e031ab524ac66458d84f27.jpg",
+        "duration" : 0,
+        "nameSinger" : "Huỳnh James, Pjnboys",
+        "star" : 2.4,
       }
     ],
     "meta" : { 
