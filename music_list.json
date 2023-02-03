@@ -34,7 +34,8 @@
         "urlFile" : "https://data.chiasenhac.com/down2/2276/4/2275642-3da8faee/128/Lau%20Lau%20Nhac%20Lai%20-%20Ha%20Nhi_%20Khoi.mp3",
         "urlThumb" : "https://data.chiasenhac.com/data/cover/175/174416.jpg",
         "duration" : 0,
-        "nameSinger" : " Hà Nhi"
+        "nameSinger" : " Hà Nhi",
+        "star" : 3.5,
       },
       {
         "id" : 5,
