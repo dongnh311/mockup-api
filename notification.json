@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id" : 1,
+      "question" : "What are you think about flutter?",
+      "answer" : "It' is anrsome.",
+      "dateQuestion" : 1519211809934,
+      "dateAnswer" : 1519129864400,
+      "likes" : 100,
+      "unlike" : 20,
+      "type" : 0
+    },
+    {
+      "id" : 1,
+      "question" : "Connect the generated [_$NotificationModelFromJson] function to the `fromJson`",
+      "answer" : "It' is anrsome.",
+      "dateQuestion" : 1519211811670,
+      "dateAnswer" : 1519211809934,
+      "likes" : 100,
+      "unlike" : 20,
+      "type" : 0
+    },
+    {
+      "id" : 1,
+      "question" : "Let's set up the dependency injection using injector and get_it and we’ll be mocking all the API calls. Please consider checking out the article for setting up DI or you can look up google for other articles related to this.",
+      "answer" : "The structure of the project looks as shown in the figure to the left. UserAuth class is used to store the user's tokens which we’ll be storing in the app for later use. Using the token we’ll fetch the user information later in this article. The username ‘flutter’ and password ‘password’ is considered the valid-user. Also, there is a to-do section that the user can utilize to make their own API calls and use that instead of the mock call.",
+      "dateQuestion" : 1519211809934,
+      "dateAnswer" : 1519129864400,
+      "likes" : 100,
+      "unlike" : 20,
+      "type" : 0
+    },
+    {
+      "id" : 1,
+      "question" : "What are you think about flutter?",
+      "answer" : "In this article, we’ll be attempting to build an authentication module that can be the base for most of the project. We’ll be using the package flutter_bloc for the state management with the application of dependency injection. Please go through my article on dependency injection if you’re not familiar with implementing dependency injection in a flutter application. Without any further ado, let's get started with our application.",
+      "dateQuestion" : 1519211809934,
+      "dateAnswer" : 1519129864400,
+      "likes" : 100,
+      "unlike" : 20,
+      "type" : 0
+    },
+    {
+      "id" : 1,
+      "question" : "Run the command to create a brand new project:",
+      "answer" : "",
+      "dateQuestion" : 1519129858900,
+      "dateAnswer" : ,
+      "likes" : 100,
+      "unlike" : 20,
+      "type" : 0
+    }
+  ],
+  "status" : true,
+  "message": ""
+}
