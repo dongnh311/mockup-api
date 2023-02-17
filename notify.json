@@ -8,7 +8,7 @@
       "image" : "https://i1-vnexpress.vnecdn.net/2022/12/29/HPNY-PNG-7265-1672309338.png?w=680&h=0&q=100&dpr=2&fit=crop&s=qw-KsVedsiGQzV7VA6zYbw",
       "createAt" : 1676598171071,
       "expireAt" : 1676598219338,
-      "type" : 1,
+      "type" : 1
     },
     {
       "id" : 2,
@@ -18,7 +18,7 @@
       "image" : "https://galle.vn/upload_images/images/qua-noel-cho-moi-lua-tuoi.jpg",
       "createAt" : 1676597077477,
       "expireAt" : null,
-      "type" : 3,
+      "type" : 3
     },
     {
       "id" : 3,
@@ -28,7 +28,7 @@
       "image" : "https://fado.vn/blog/wp-content/uploads/2022/11/black-friday-1.jpg",
       "createAt" : 1676598171071,
       "expireAt" : 1676597701617,
-      "type" : 2,
+      "type" : 2
     },
     {
       "id" : 4,
@@ -38,7 +38,7 @@
       "image" : "https://static.toiimg.com/thumb/msid-88568443,imgsize-1492769,width-800,height-600,resizemode-75/88568443.jpg",
       "createAt" : 1676597077477,
       "expireAt" : 1676598219338,
-      "type" : 1,
+      "type" : 1
     },
     {
       "id" : 5,
@@ -48,7 +48,7 @@
       "image" : "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/covers/9/6/96dcc6f62390235e54cdb5cb5e77055b_1388211767.jpg",
       "createAt" : 1676598171071,
       "expireAt" : 1676597077477,
-      "type" : 1,
+      "type" : 1
     },
     {
       "id" : 6,
@@ -58,7 +58,7 @@
       "image" : "https://fdn.gsmarena.com/imgroot/news/20/12/happy-new-year-2021/-1200/gsmarena_002.jpg",
       "createAt" : 1676598171071,
       "expireAt" : null,
-      "type" : 1,
+      "type" : 1
     },
     {
       "id" : 7,
@@ -68,7 +68,7 @@
       "image" : "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/12/28/Pictures/_79f0be00-0a91-11e9-af2d-a06eafd7db38.JPG",
       "createAt" : 1676598171071,
       "expireAt" : null,
-      "type" : 1,
+      "type" : 1
     }
   ],
   "status" : true,
