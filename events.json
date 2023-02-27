@@ -1,0 +1,33 @@
+{
+  "data" : [
+    {
+      "id" : 1,
+      "title": "Nhà Giáo Việt Nam 20-11",
+      "subTitle" : "Vinh danh ngày nhà giáo Việt Nam",
+      "content": "Thân gửi các vị Huynh/Tỷ!\nLà một ngày lễ Nhà giáo Việt Nam 20/11 từ lâu được xem là ngày \“tôn sư trọng đạo\” nhằm tôn vinh \“những người đưa đò thầm lặng\” của bao thế hệ. Đây cũng là dịp để học trò bày tỏ lòng biết ơn đến thầy cô của mình bằng các bó hoa hay các lá thư mang lời hay ý đẹp.\nXin được gửi những lời chúc chân thành và ý nghĩa tới những thầy cô nhân ngày Nhà giáo Việt Nam 20/11, đây cũng là món quà tinh thần vô giá mà EfunVN muốn gửi đến những người đã truyền đạt những kiến thức quý báu cho các mầm non tương lai của đất nước.\nNhân dịp đó, EfunVN xin được gửi đến các đồng đạo Võ Lâm một sự kiện cùng với ngày đó \"Ngày Nhà Giáo Việt Nam 20-11-2022\"",
+      "imageUrl" : "https://lh3.googleusercontent.com/pw/AL9nZEXisW4TMP31gPiGNlPtd7TYKG8ghl9KU_gQ1X68blGlR4wTf4Df_vQsx275hwnNkx6_zDy7dmxw1du5Vte-UZYtt8yAQJGtC3UZbgUZMc6x3LuTaAZqzwKVdPsb9oAK3ipBbc_bau77QX8DZjWtIJUg=w1442-h725-no",
+      "createAt" : 1677468826904,
+      "updateAt" : null
+    },
+    {
+      "id" : 2,
+      "title": "Bảng xếp hạng giáo viên tháng 02/2023.",
+      "subTitle" : "Bảng xếp hạng các giáo viên tích cực trong tháng 02.",
+      "content": "",
+      "imageUrl" : "https://baothainguyen.vn/file//oldimage/baothainguyen/UserFiles/image/3908giaoduc-165182989110329474868.jpg",
+      "createAt" : 1677468826904,
+      "updateAt" : null
+    },
+    {
+      "id" : 3,
+      "title": "Hội thảo về tương lai ngành giáo viên tại Việt Nam",
+      "subTitle" : "HỘI THẢO \“ĐÀO TẠO GIÁO VIÊN CÔNG NGHỆ ĐÁP ỨNG YÊU CẦU ĐỔI MỚI GIÁO DỤC PHỔ THÔNG\”",
+      "content": "Hội thảo quốc tế: “Giáo dục Đại học Việt Nam và Châu Á – Tương quan và cơ hội hợp tác” đã khép lại sau khoảng thời gian làm việc sôi nổi, tích cực của các nhà nghiên cứu, nhà khoa học... Hội thảo đã đem đến nhiều góc nhìn, phương hướng, đề xuất góp ý cũng như chia sẻ nhiều nghiên cứu mới đối với Giáo dục Đại học Việt Nam và Châu Á.",
+      "imageUrl" : "https://ued.udn.vn/uploads/news/2020_11/img_4846.jpg",
+      "createAt" : 1677468826904,
+      "updateAt" : null
+    },
+  ],
+  "status" : true,
+  "message" : ""
+}
